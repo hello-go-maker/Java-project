@@ -1,5 +1,7 @@
 把一些Java项目全部分类汇总一些，大家需要可以自取。
 
+如果觉得不错，麻烦给个star哦，千万别吝啬！
+
 ### 微服务
 - [推荐 7 个牛哄哄 Spring Cloud 实战项目](http://mp.weixin.qq.com/s?__biz=MzUxNjk0ODIwMg==&mid=2247490788&idx=1&sn=15b3ba623aa42417cbc53643ac77b1be&chksm=f99ef561cee97c77b867c26e37ae363e82f135fb5512f1a1570f638a6f67dd9dced952be78ce&scene=27#wechat_redirect)
 
