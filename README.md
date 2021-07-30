@@ -26,6 +26,8 @@
 
 ### 支付项目
 
+- [一个整理支付宝、微信等支付项目的github仓库推荐](https://github.com/hello-java-maker/sihai-maven-ssm-alipay)
+
 - [推荐几个支付项目！](http://mp.weixin.qq.com/s?__biz=MzUxNjk0ODIwMg==&mid=2247490756&idx=2&sn=e1214cf2b2d2c569139514c482f1be18&chksm=f99ef541cee97c572120045ede44aa712ab2b07cd0006fc13c6b9984e4507d2f3f0015265be5&scene=27#wechat_redirect)
 
 - [一个Github项目搞定微信、QQ、支付宝等第三方登录](https://mp.weixin.qq.com/s/CrnicXHoaPGr5DBCPwZOQg)
